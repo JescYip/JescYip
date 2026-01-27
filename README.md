@@ -1,6 +1,4 @@
-readme_content = """# YE, Jesse Chenwei
-
-**你好** 我是 **@JescYip**，一名深耕于 **金融科技 (FinTech)** 与 **人工智能 (AI)** 领域的探索者。
+**你好** 我是 **@JescYip**，一名在 **金融科技 (FinTech)** 与 **人工智能 (AI)** 领域的探索者。
 
 * 🚀 目前在 **泰康人寿 (香港) (Taikang Life Insurance HK)** 担任 **IT 数据分析实习生 (IT Data Analyst Intern)** [cite: 10, 11, 14]。
 * 🎓 **香港科技大学 (HKUST)** 信息系统管理硕士 (MSc in Information System Management) 在读 。
