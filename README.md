@@ -1,6 +1,4 @@
-# 🍃 Jesse Chenwei YE (小叶)
-
-👋 **Hello!** I am **@JescYip**, a tech-driven passionate about **FinTech** and **Artificial Intelligence**.
+**Hello!** I am **@JescYip**, a tech-driven passionate about **FinTech** and **Artificial Intelligence**.
 
 * 🚀 Currently serving as an **IT Data Analyst Intern** at **Taikang Life Insurance (HK)**.
 * 🎓 **MSc in Information System Management** candidate at **HKUST**.
