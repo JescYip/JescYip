@@ -1,7 +1,7 @@
 **Hello!** I am **@JescYip**, a tech-driven passionate about **FinTech** and **Artificial Intelligence**.
 
-* 🚀 Currently serving as an **IT Data Analyst Intern** at **Taikang Life Insurance (HK)**.
 * 🎓 **MSc in Information System Management** candidate at **HKUST**.
+* 🎓 **MSc in Analytics and Management** at **London Business School**.
 * 🎓 **BSc in Fintech & AI** graduate from **PolyU**.
 * 🎯 Focused on **IT Auditing**, **Digital Transformation**, and **Data-driven Solutions**.
 
@@ -10,7 +10,7 @@
 ### 💼 Working Experiences
 
 #### **Taikang Life Insurance (HK)**
-*IT Data Analyst Intern* | *Jan 2026 – Present*
+*IT Data Analyst Intern* | *Jan 2026 – Mar 2026*
 * **Analytical Insights**: Conduct data analysis for core pre-launch initiatives to support business strategy and IT system architecture planning.
 * **Cross-functional Liaison**: Act as the key liaison between business units, technical teams, and external vendors to translate requirements into technical solutions.
 * **End-to-End Data Management**: Manage data processes ranging from requirement analysis and ETL design to User Acceptance Testing (UAT).
